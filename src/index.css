@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+
+.convert_body{
+  display: flex;
+  justify-content: space-between;
+}
+.main_body{
+  width: 80%;
+  padding: 20px;
+
+}
+.sidebar{
+  width: 20%;
+  height: 100vh;
+  background-color:burlywood ;
+}
+.card_body{
+  width: 100%;
+  padding: 30px;
+}
